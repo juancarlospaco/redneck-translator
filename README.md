@@ -19,3 +19,10 @@ howdy yall plum ignert youngin good'ole'boys
 # Uninstall
 
 - Delete it.
+
+
+# FAQ
+
+- Why?.
+
+Its not derogatory, but for *Scam-Baiting and Fake Data Generator* purposes for people not keen with US slang.
