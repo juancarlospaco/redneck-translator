@@ -48,6 +48,7 @@ hold yo horses and stop lollygaggin
 - ✅ BSD
 - ✅ ChromeOS/ChromiumOS
 - ✅ iPad
+- ✅ WindowsCE/WindowsPhone
 - ✅ ReactOS
 - ✅ FreeDOS
 - ✅ MS DOS
