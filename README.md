@@ -34,4 +34,6 @@ hold yo horses and stop lollygaggin
 
 - Why?.
 
-Its not derogatory for anyone, but for *[Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) & Fake Data Generator* purposes for people not keen with US rural [slang](https://wikipedia.org/wiki/Slang).
+Its not derogatory for anyone, but for
+*[Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) & [Fake Data Generator](https://en.wikipedia.org/wiki/Mock_object)*
+purposes for people not keen with US rural [slang](https://wikipedia.org/wiki/Slang).
