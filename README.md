@@ -2,9 +2,9 @@
 
 - [Redneck](https://wikipedia.org/wiki/Redneck) translator for Y'all, no Internet (Offline), Windows/Linux, App/Lib, [Pull Requests welcome](https://github.com/juancarlospaco/redneck-translator/pulls), bless your heart❕
 
-![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp.jpg)
+![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp.jpg "jeet yit for Linux!")
 
-![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp2.jpg)
+![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp2.jpg "jeet yit for Windows!")
 
 
 # Use
