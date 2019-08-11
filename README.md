@@ -46,12 +46,14 @@ hold yo horses and stop lollygaggin
 - ✅ Raspberry Pi
 - ✅ ARM
 - ✅ BSD
+- ✅ iPad
 - ✅ ReactOS
 - ✅ FreeDOS
 - ✅ MS DOS
 - ✅ Haiku
 - ✅ GNU Hurd
 - ✅ PowerPC
+- ✅ MIPS
 - ✅ TempleOS
 
 
