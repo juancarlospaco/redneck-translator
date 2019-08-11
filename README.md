@@ -25,4 +25,4 @@ howdy yall plum ignert youngin good'ole'boys
 
 - Why?.
 
-Its not derogatory for anyone, but for *[Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) & Fake Data Generator* purposes for people not keen with US rural slang.
+Its not derogatory for anyone, but for *[Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) & Fake Data Generator* purposes for people not keen with US rural [slang](https://wikipedia.org/wiki/Slang).
