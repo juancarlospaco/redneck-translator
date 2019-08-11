@@ -22,12 +22,34 @@ hold yo horses and stop lollygaggin
 
 - [**Download it!.**](https://github.com/juancarlospaco/redneck-translator/releases)
 - `50` KiloBytes file size, single-file standalone native binary executable, no install required, just copy it and run it.
-- Works on Windows, Linux, Mac, JavaScript, NodeJS, NimScript, Android, ReactOS, BSD, FreeDOS and more.
 
 
 # Uninstall
 
 - Delete it.
+
+
+# Dependencies
+
+- **None**
+
+
+# Platforms
+
+- ✅ Linux
+- ✅ Windows
+- ✅ Mac
+- ✅ JavaScript
+- ✅ NodeJS
+- ✅ NimScript
+- ✅ Android
+- ✅ Raspberry Pi
+- ✅ BSD
+- ✅ ReactOS
+- ✅ FreeDOS
+- ✅ Haiku
+- ✅ GNU Hurd
+- ✅ TempleOS
 
 
 # FAQ
