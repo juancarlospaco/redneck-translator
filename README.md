@@ -1,6 +1,6 @@
 # Redneck-Translator
 
-- [Redneck](https://wikipedia.org/wiki/Redneck) translator for Y'all, wont use Internet (Offline), Windows/Linux, App/Lib, Pull Requests welcome, bless your heart❕
+- [Redneck](https://wikipedia.org/wiki/Redneck) translator for Y'all, no Internet (Offline), Windows/Linux, App/Lib, Pull Requests welcome, bless your heart❕
 
 
 # Use
