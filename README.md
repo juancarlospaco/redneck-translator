@@ -46,7 +46,7 @@ hold yo horses and stop lollygaggin
 - ✅ Raspberry Pi
 - ✅ ARM
 - ✅ BSD
-- ✅ ChromeOS/ChromiumOS
+- ✅ ChromeOS
 - ✅ ReactOS
 - ✅ FreeDOS
 - ✅ MS DOS
