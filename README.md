@@ -21,7 +21,7 @@ hold yo horses and stop lollygaggin
 # Install
 
 - [**Download it!.**](https://github.com/juancarlospaco/redneck-translator/releases)
-- 50 KiloBytes, single-file standalone native binary executable, no install required, just copy it and use it.
+- 50 KiloBytes file size, single-file standalone native binary executable, no install required, just copy it and use it.
 - Works on Windows, Linux, Mac, JavaScript, NodeJS, NimScript and more.
 
 
