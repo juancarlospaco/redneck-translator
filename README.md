@@ -51,6 +51,7 @@ hold yo horses and stop lollygaggin
 - ✅ MS DOS
 - ✅ Haiku
 - ✅ GNU Hurd
+- ✅ PowerPC
 - ✅ TempleOS
 
 
