@@ -47,16 +47,12 @@ hold yo horses and stop lollygaggin
 - ✅ ARM
 - ✅ BSD
 - ✅ ChromeOS/ChromiumOS
-- ✅ iPad
-- ✅ WindowsCE/WindowsPhone
 - ✅ ReactOS
 - ✅ FreeDOS
 - ✅ MS DOS
 - ✅ MikroTik RouterOS
 - ✅ Haiku
 - ✅ GNU Hurd
-- ✅ PowerPC
-- ✅ MIPS
 - ✅ TempleOS
 
 
