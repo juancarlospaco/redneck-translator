@@ -50,7 +50,6 @@ hold yo horses and stop lollygaggin
 - ✅ ReactOS
 - ✅ FreeDOS
 - ✅ MS DOS
-- ✅ MikroTik RouterOS
 - ✅ Haiku
 - ✅ GNU Hurd
 - ✅ TempleOS
