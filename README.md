@@ -48,6 +48,7 @@ hold yo horses and stop lollygaggin
 - ✅ BSD
 - ✅ ReactOS
 - ✅ FreeDOS
+- ✅ MS DOS
 - ✅ Haiku
 - ✅ GNU Hurd
 - ✅ TempleOS
