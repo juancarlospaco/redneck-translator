@@ -57,6 +57,7 @@ hold yo horses and stop lollygaggin
 - ✅ Haiku
 - ✅ GNU Hurd
 - ✅ TempleOS
+- ✅ Anything that can compile C.
 
 
 # FAQ
