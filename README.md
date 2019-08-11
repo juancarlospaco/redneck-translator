@@ -6,8 +6,15 @@
 # Use
 
 ```console
+$ ./redneck_translator
+USE:
+    ./redneck_translator 'message here'
+
 $ ./redneck_translator hello you all completely ignorant young boys
 howdy yall plum ignert youngin good'ole'boys
+
+$ ./redneck_translator wait a moment and stop wasting time
+hold yo horses and stop lollygaggin
 ```
 
 
