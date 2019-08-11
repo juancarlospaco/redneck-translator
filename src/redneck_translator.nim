@@ -11,7 +11,7 @@ func redneckify*(text: string): string =
   "you people": "yall",
   "your": "yall",
   "over there": "yonder",
-  "breakfast": "supper",
+  "dinner": "supper",
   "darn": "dadgummit",
   "dammit": "dadgummit",
   "damm": "dadgummit",
@@ -187,4 +187,4 @@ when isMainModule:
   from os import paramCount, commandLineParams
   from strutils import join, normalize, strip
   if paramCount() == 0: quit("USE:\n\t./redneck_translator 'message here'\n", 1)
-  echo redneckify(commandLineParams().join" ".normalize.strip)
+  quit(redneckify(commandLineParams().join" ".normalize.strip), 0)
