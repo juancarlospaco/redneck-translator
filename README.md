@@ -1,6 +1,6 @@
 # Redneck-Translator
 
-- [Redneck](https://wikipedia.org/wiki/Redneck) string translator for Y'all, works Offline, wont use Internet, bless your heart!.
+- [Redneck](https://wikipedia.org/wiki/Redneck) string translator for Y'all, works Offline, wont use Internet, Windows/Linux, bless your heart!.
 
 
 # Use
