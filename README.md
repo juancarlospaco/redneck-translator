@@ -44,6 +44,7 @@ hold yo horses and stop lollygaggin
 - ✅ NimScript
 - ✅ Android
 - ✅ Raspberry Pi
+- ✅ ARM
 - ✅ BSD
 - ✅ ReactOS
 - ✅ FreeDOS
