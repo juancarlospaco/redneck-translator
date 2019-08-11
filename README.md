@@ -6,7 +6,7 @@
 # Use
 
 ```console
-$ ./redneck_translator hello you all completely ignorant young boys
+./redneck_translator hello you all completely ignorant young boys
 howdy yall plum ignert youngin good'ole'boys
 ```
 
