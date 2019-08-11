@@ -4,6 +4,8 @@
 
 ![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp.jpg)
 
+![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp2.jpg)
+
 
 # Use
 
