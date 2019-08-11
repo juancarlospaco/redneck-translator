@@ -46,10 +46,12 @@ hold yo horses and stop lollygaggin
 - ✅ Raspberry Pi
 - ✅ ARM
 - ✅ BSD
+- ✅ ChromeOS/ChromiumOS
 - ✅ iPad
 - ✅ ReactOS
 - ✅ FreeDOS
 - ✅ MS DOS
+- ✅ MikroTik RouterOS
 - ✅ Haiku
 - ✅ GNU Hurd
 - ✅ PowerPC
