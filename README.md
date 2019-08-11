@@ -20,7 +20,7 @@ hold yo horses and stop lollygaggin
 
 # Install
 
-- Download it.
+- [Download it.](https://github.com/juancarlospaco/redneck-translator/releases)
 
 
 # Uninstall
