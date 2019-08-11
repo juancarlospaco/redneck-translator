@@ -67,3 +67,5 @@ hold yo horses and stop lollygaggin
 Its not derogatory for anyone, but for
 *[Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) & [Fake Data Generator](https://en.wikipedia.org/wiki/Mock_object)*
 purposes for people not keen with rural [slang](https://wikipedia.org/wiki/Slang).
+
+I can not find [Scam-Baiting](https://wikipedia.org/wiki/Scam_baiting) tools on GitHub (as of 2019).
