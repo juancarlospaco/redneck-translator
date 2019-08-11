@@ -21,7 +21,8 @@ hold yo horses and stop lollygaggin
 # Install
 
 - [Download it](https://github.com/juancarlospaco/redneck-translator/releases)
-(50 KiloBytes, single-file executable, no install required, works on Windows/Linux/JavaScript/NodeJS/NimScript).
+- 50 KiloBytes, single-file executable, no install required, just copy it.
+- Works on Windows, Linux, Mac, JavaScript, NodeJS, NimScript and more.
 
 
 # Uninstall
