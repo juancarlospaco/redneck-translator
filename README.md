@@ -2,7 +2,7 @@
 
 - [Redneck](https://wikipedia.org/wiki/Redneck) translator for Y'all, no Internet (Offline), Windows/Linux, App/Lib, [Pull Requests welcome](https://github.com/juancarlospaco/redneck-translator/pulls), bless your heart❕
 
-![](temp.jpg)
+![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp.jpg)
 
 
 # Use
