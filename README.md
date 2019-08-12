@@ -2,7 +2,7 @@
 
 - [Redneck](https://wikipedia.org/wiki/Redneck) translator for Y'all, no Internet (Offline), Windows/Linux, App/Lib, [Pull Requests welcome](https://github.com/juancarlospaco/redneck-translator/pulls), bless your heart❕
 
-[<img src="https://img.youtube.com/vi/qdtITldz_8k/maxresdefault.jpg" width="99%">](https://www.youtube.com/watch?v=qdtITldz_8k "Click here to understand whats this!")
+[<img src="https://6packofboys.files.wordpress.com/2013/12/10nov_final_496-edit.jpeg" width="99%">](https://www.youtube.com/watch?v=qdtITldz_8k "Click here to understand whats this!")
 
 ![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp.jpg "jeet yit for Linux! (50Kb)")
 
