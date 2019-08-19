@@ -52,13 +52,6 @@ hold yo horses and stop lollygaggin
 - ✅ Raspberry Pi
 - ✅ ARM
 - ✅ BSD
-- ✅ ChromeOS
-- ✅ ReactOS
-- ✅ FreeDOS
-- ✅ MS DOS
-- ✅ Haiku
-- ✅ GNU Hurd
-- ✅ TempleOS
 - ✅ Anything that can compile C.
 
 
