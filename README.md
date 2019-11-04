@@ -4,6 +4,16 @@
 
 [<img src="https://6packofboys.files.wordpress.com/2013/12/10nov_final_496-edit.jpeg" width="99%">](https://www.youtube.com/watch?v=qdtITldz_8k "Click here to understand whats this!")
 
+![](https://img.shields.io/github/languages/top/juancarlospaco/redneck-translator?style=for-the-badge)
+![](https://img.shields.io/github/languages/count/juancarlospaco/redneck-translator?logoColor=green&style=for-the-badge)
+![](https://img.shields.io/github/stars/juancarlospaco/redneck-translator?style=for-the-badge "Star redneck-translator on GitHub!")
+![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge "2019")
+![](https://img.shields.io/github/languages/code-size/juancarlospaco/redneck-translator?style=for-the-badge)
+![](https://img.shields.io/github/issues-raw/juancarlospaco/redneck-translator?style=for-the-badge "Bugs")
+![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/redneck-translator?style=for-the-badge "PRs")
+![](https://img.shields.io/github/commit-activity/y/juancarlospaco/redneck-translator?style=for-the-badge)
+![](https://img.shields.io/github/last-commit/juancarlospaco/redneck-translator?style=for-the-badge "Commits")
+
 ![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp.jpg "jeet yit for Linux! (50Kb)")
 
 ![](https://raw.githubusercontent.com/juancarlospaco/redneck-translator/master/temp2.jpg "jeet yit for Windows! (50Kb, NO DotNet Required)")
@@ -53,6 +63,11 @@ hold yo horses and stop lollygaggin
 - ✅ ARM
 - ✅ BSD
 - ✅ Anything that can compile C.
+
+
+# Stars
+
+![Star redneck-translator on GitHub](https://starchart.cc/juancarlospaco/redneck-translator.svg "Star redneck-translator on GitHub!")
 
 
 # FAQ
