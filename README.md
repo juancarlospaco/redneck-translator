@@ -7,7 +7,6 @@
 ![](https://img.shields.io/github/languages/top/juancarlospaco/redneck-translator?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/juancarlospaco/redneck-translator?logoColor=green&style=for-the-badge)
 ![](https://img.shields.io/github/stars/juancarlospaco/redneck-translator?style=for-the-badge "Star redneck-translator on GitHub!")
-![](https://img.shields.io/maintenance/yes/2019?style=for-the-badge "2019")
 ![](https://img.shields.io/github/languages/code-size/juancarlospaco/redneck-translator?style=for-the-badge)
 ![](https://img.shields.io/github/issues-raw/juancarlospaco/redneck-translator?style=for-the-badge "Bugs")
 ![](https://img.shields.io/github/issues-pr-raw/juancarlospaco/redneck-translator?style=for-the-badge "PRs")
